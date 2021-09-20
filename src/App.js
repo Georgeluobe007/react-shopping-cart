@@ -1,6 +1,6 @@
 //feature 1
 
-
+//products-component
 function App() {
   return (
    <div className="grid-container">
